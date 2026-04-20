@@ -1,5 +1,9 @@
 # ⚡ NeonSQL Agent
 
+## 🚀 Live App
+
+[Click Here to Open App](https://text-to-sql-avkidzbszndcnnw57raj4b.streamlit.app/)
+
 NeonSQL Agent is an Agentic AI-powered Text-to-SQL analytics platform built using:
 
 - Streamlit
